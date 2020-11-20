@@ -1,0 +1,9 @@
+name: gopherlabs
+services:
+  vote:
+    public: true
+    image: sangam14/gopherlabs
+    build: present-slides 
+    replicas: 1
+    ports:
+      - 3999
