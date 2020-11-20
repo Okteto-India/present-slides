@@ -1,6 +1,6 @@
 # present-slides
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://github.com/Okteto-India/present-slides/)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Okteto-India/present-slides/)
 
 # build Dockerfile
 ```
